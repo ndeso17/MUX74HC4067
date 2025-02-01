@@ -1,1 +1,1 @@
-# multiplexer-cd74hc4067-arduino
+# MUX74HC4067
